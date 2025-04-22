@@ -1,2 +1,2 @@
 # kutul10
-this is my first repository  std
+this is my first repository  
